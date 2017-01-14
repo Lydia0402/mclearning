@@ -7,11 +7,17 @@ layout: default
 - "Papers on Language Understanding"\[[pdf](reading-list-2016-09-18.pdf)\]
 
 Jiang Shunan ：~~1,17,~~18,19,20,40,42, word normalization
+
 Gong Kang    ：2,12,13,26,27,39,41, sentence segmentation
+
 Chen Kang    ：~~3,~~10,21,22,23,36,46,48, word tokenizing
+
 Qian Junyu   ：~~4, 8,~~11,28,34,37,43, part of speech tagging
+
 Yu Shuhua    ：5, 9,24,25,35,38,49, named entity recognition
+
 Tang Qianyuan：6,14,15,32,33,47,50, voice recognition
+
 Chen Sibo    ：7,16,29,30,31,44,45, n-grams
 
 
