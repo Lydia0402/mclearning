@@ -24,13 +24,13 @@ Chen Sibo    ：7,16,29,30,31,44,45, n-grams
 (ref to NLP papers for the following topics)
 
 ## Upcomings
-[ ]["Ask Me Anything: Dynamic Memory Networks for Natural Language Processing"](http://arxiv.org/abs/1506.07285)
+- ["Ask Me Anything: Dynamic Memory Networks for Natural Language Processing"](http://arxiv.org/abs/1506.07285)
    Note: arXiv:1506.07285, 2015, A dynamic memory network which processes input sequences and questions, forms episodic memories, and generates relevant answers.
    Presentor: Gong kang 
    Time: 7pm, 2017-01-14
    Place：Zhixin Building 231B
 
-[ ][From Frequency to Meaning: Vector Space Models of Semantics.](http://www.jair.org/media/2934/live-2934-4846-jair.pdf)
+- [From Frequency to Meaning: Vector Space Models of Semantics.](http://www.jair.org/media/2934/live-2934-4846-jair.pdf)
    Note: Journal of artificial intelligence research, 2010, A must-read for semantics representation.
    Presentor: Chen Sibo
    Time: 7pm, 2017-01-14
