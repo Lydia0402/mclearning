@@ -2,7 +2,7 @@
 title: Machine Learning Study Group
 email: shenghao.yang@gmail.com
 baseurl: "/mclearning" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+# url: "http://yourdomain.com" # the base hostname & protocol for your site
 # twitter_username: Undef
 github_username:  Lydia0402
 
